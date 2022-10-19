@@ -1,0 +1,37 @@
+div{
+    background-color: yellow;
+    margin: 10px;
+}
+.Uno{
+    width: 40%;
+    float: left;
+}
+.Dos{
+    width: 60%;
+    float: right;
+}
+.Tres{
+    width:40%;
+    float: left;
+}
+.Cuatro{
+    width: 60%;
+    float: right;
+}
+.Cinco{
+
+}
+#a{
+    color:forestgreen;
+}
+#b{
+    color: #43464b;
+}
+#c{
+    color:rgb(70,130,180);
+}
+span{
+    color:blue;
+    position:relative;
+    left: 200px;
+}

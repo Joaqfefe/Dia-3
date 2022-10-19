@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(238, 4, 43); 
+    background-color: aquamarine;
+    text-decoration: underline; 
+   }
+   
+   p {
+    color: blue;
+    background-color: white
+     font-size: 18px;
+     width: 400px;
+     text-indent: 50px;
+     text-align: justify;
+}
+    span {
+        color: green;
+    
+     }
+    span.yellow {
+        background-color: yellow;
+     }
+    span.black{
+        background-color: black;
+   }
+#cover-box {
+    background-color: black;
+    color: pink;
+    width: 100px;
+    height: 50px;
+  }
